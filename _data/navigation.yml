@@ -1,12 +1,9 @@
 # main links
 main:
-  - title: "Blog"
-    url: "/blog/"
+  - title: "블로그"
+    url: "https://blog.redraccoon.kr"
   - title: "Discord"
     url: https://discord.gg/FGeh8Uk9Dg
-    target: _blank
   - title: "About"
     url: "/about/"
-  - title: "Posts"
-    url: /posts/
 
