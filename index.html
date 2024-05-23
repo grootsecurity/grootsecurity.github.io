@@ -1,7 +1,39 @@
 ---
+layout: splash
+title: "레드라쿤"
+footer: true
 header:
-  image: "/assets/images/Color logo - no background-1.png"
-layout: home
-author_profile: true
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: "/assets/images/Color logo - no background-1.png"
+  actions:
+  - label: "About 레드라쿤"
+    url: "/about/"
+excerpt: "대한민국 No.1 사이버 보안 커뮤니티"
+intro: 
+  - excerpt: '레드라쿤은 누구나 배울 수 있는 사이버 보안 커뮤니티를 목표로 합니다.'
+feature_row:
+  - image_path: "/assets/images/RR Red.png"
+    title: "강의"
+    excerpt: "실전 모의해킹 강의 - BHPT"
+    url: "https://www.inflearn.com/course/%ED%98%B8%EC%8A%A4%ED%8A%B8-%EA%B8%B0%EB%B0%98-%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9-%EA%B8%B0%EC%B4%88"
+    btn_label: "바로가기"
+    btn_class: "btn--primary"
+  - image_path: "/assets/images/RR_Blue.png"
+    title: "라쿤시티"
+    excerpt: "해킹에 필요한 필수 리눅스 커맨드 플랫폼"
+    url: "https://ctf.redraccoon.kr/"
+    btn_label: "바로가기"
+    btn_class: "btn--primary"
+  - image_path: "/assets/images/RR Green.png"
+    title: "기술 블로그"
+    excerpt: "레드라쿤 보안 커뮤니티가 운영하는 기술 블로그"
+    url: "https://blog.redraccoon.kr"
+    btn_label: "바로가기"
+    btn_class: "btn--primary"
+
 ---
+
+{% include feature_row id="intro" type="center" %}
+{% include feature_row %}
 
