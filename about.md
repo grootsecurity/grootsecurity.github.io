@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: splash
 title: "Groot Cy-Beer Space"
 footer: true
 author_profile: true
@@ -13,8 +13,10 @@ header:
 
 ### GR00T<br>
 Cyber Security Professional <br>
+➡  [<i class="fas fa-envelope fa-fw"></i> LinkedIn](https://www.linkedin.com/in/ace-l-bab75927a/)<br>
 
-## What I like:
+
+#### What I like:
 - Flat White
 - Most Cyber stuffs
 - People with Humors
@@ -22,7 +24,7 @@ Cyber Security Professional <br>
 - Drums
 - Snowboard
 
- ## What I don’t like:
+#### What I don’t like:
  - Narcissists
  - Psychopaths
  - Sociopaths
@@ -30,11 +32,7 @@ Cyber Security Professional <br>
  - Nosy
  - (some) managers that act one of above
 
-➡  [<i class="fas fa-envelope fa-fw"></i> LinkedIn](https://www.linkedin.com/in/ace-l-bab75927a/)<br>
-
-
-🤝 How to Find me<br>
-[<i class="fab fa-youtube-play fa-fw"></i> Youtube](https://www.youtube.com/@redraccooncorp)<br>
+🤝 How to find me<br>
 [<i class="fab fa-discord fa-fw"></i> Discord](https://discord.gg/FGeh8Uk9Dg)<br>
 [<i class="fas fa-envelope fa-fw"></i> Email](mailto:groot@redraccoon.kr)<br>
 
