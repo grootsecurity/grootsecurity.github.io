@@ -1,6 +1,6 @@
 ---
 header:
-  image: "/assets/images/Color logo - no background-1.png"
+  image: "/assets/images/CYBEER.png"
 title: About
 layout: single
 permalink: /about/
