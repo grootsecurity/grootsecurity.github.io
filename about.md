@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 footer: true
 author_profile: true
 header:

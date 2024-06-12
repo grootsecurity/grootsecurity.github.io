@@ -9,17 +9,6 @@ title: "OWASP TOP 10 - Broken Access Control"
 ---
 
 
----
-layout: single
-author_profile: true
-
-toc: true
-toc_label: "목차"
-toc_icon: "cog"
-title: "OWASP TOP 10 - Broken Access Control"
----
-
-
 # Web Attack - Broken Access Control 1
 This WEB Attack series deals with 10 web vulnerabilities and its attacks based on OWASP TOP 10.In order to build a mock hacker career, Web Attack technology is basic, so understand it exactly and use it in the incumbent or interview.
 
