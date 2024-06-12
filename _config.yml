@@ -115,13 +115,9 @@ analytics:
 author:
   name             : "Groot"
   avatar           : "/assets/images/Android.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : Groot is ready to tackle any cyber threat with savvy and skill."
+  bio              : Would you like some Cy-Beer?
   location         : "Earth"
   email            : groot@redraccoon.kr
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:groot@redraccoon.kr"
 
 # Site Footer
 footer:
