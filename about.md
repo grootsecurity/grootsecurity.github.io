@@ -1,7 +1,8 @@
 ---
-layout: splash
+layout: home
 title: "Groot Cy-Beer Space"
 footer: true
+author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -9,7 +10,11 @@ header:
 ---
 
 # Who Am I? 
-What I like
+
+### GR00T<br>
+Cyber Security Professional <br>
+
+## What I like:
 - Flat White
 - Most Cyber stuffs
 - People with Humors
@@ -17,16 +22,13 @@ What I like
 - Drums
 - Snowboard
 
- What I don’t like:
+ ## What I don’t like:
  - Narcissists
  - Psychopaths
  - Sociopaths
  - Extremists 
  - Nosy
  - (some) managers that act one of above
-
-**Groot**<br>
-Cyber Security Professional <br>
 
 ➡  [<i class="fas fa-envelope fa-fw"></i> LinkedIn](https://www.linkedin.com/in/ace-l-bab75927a/)<br>
 
