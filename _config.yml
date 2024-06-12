@@ -26,7 +26,7 @@ url: "https://grootsecurity.github.io"
 #baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/Color logo - no background.png"
+logo                     : "/assets/images/favicon_raccoon.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -90,7 +90,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "test"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Groot"
   avatar           : "/assets/images/Android.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : Groot'sexpertise is rock-solid, ready to tackle any cyber threat with savvy and skill."
+  bio              : Groot is ready to tackle any cyber threat with savvy and skill."
   location         : "Earth"
   email            : groot@redraccoon.kr
   links:
