@@ -1,11 +1,10 @@
 ---
 layout: splash
-title: "Groot Cy-Beer Space"
 footer: true
 author_profile: true
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.8"
   overlay_image: "/assets/images/CYBEER.png"
 ---
 
