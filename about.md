@@ -23,16 +23,6 @@ toc_icon: "cog"
 ➡  [<i class="fas fa-envelope fa-fw"></i> 이메일](mailto:groot@redraccoon.kr)<br>
 
 
-**초이(Choi)**<br>
-Fortune 100에서 전세계 기업들을 상대로 내부망, 외부망, 웹 모의해킹 업무를 진행<br>
-Defcon 30, Defcon 31에서 블루팀 워크샵 + 레드팀 워크샵 제작 및 진행<br>
-한국 최초의 오펜시브 시큐리티 오픈소스 위키피디아 운영 (레드팀.com)<br>
-Global CPTC(Collegiate Penetration Testing Competition) 2020 - 1등, 팀장
-
-➡  [<i class="fas fa-envelope fa-fw"></i> 이메일](mailto:choi@redraccoon.kr)<br> 
-
-**민(Min)**<br> 
-➡  [<i class="fas fa-envelope fa-fw"></i> 이메일](mailto:min@redraccoon.kr)<br> 
 
 🤝 레드라쿤 커뮤니티 참여하기<br>
 [<i class="fab fa-youtube-play fa-fw"></i> 유투브](https://www.youtube.com/@redraccooncorp)<br>
